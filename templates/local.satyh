@@ -1,0 +1,14 @@
+@require: enumitem/enumitem
+@require: figbox/figbox
+@require: math
+@require: pervasives
+@require: code-printer/code-printer
+@require: code-printer/code-syntax
+@require: code-printer/code-theme
+@require: code-printer/code-design
+@require: fss/fss
+@require: fss/fonts
+@require: fss/style
+
+open FigBox
+

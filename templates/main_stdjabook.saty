@@ -1,0 +1,12 @@
+@require: stdjabook
+@import: local
+
+document(|
+    author = {};
+    show-title = true;
+    show-toc = true;
+    title = {}
+  |)
+  '<
+
+  >
